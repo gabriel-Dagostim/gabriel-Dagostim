@@ -10,8 +10,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 ## Minhas redes sociais/contato
 
