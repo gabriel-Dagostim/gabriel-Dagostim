@@ -1,6 +1,3 @@
-
-<br>
-
 ### Olá eu sou o Gabriel Dagostim 😄
 
 
@@ -14,7 +11,7 @@
 <br>
 <br>
 <br>
-
+<br>
 
 ## Minhas redes sociais/contato
 
@@ -41,8 +38,14 @@
 <br>
 <br>
 
-
+#### Status de commits
 ![gabriel-Dagostim GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-Dagostim&show_icons=true&theme=gruvbox)
+#### Linguagens mais usada
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dagostim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br>
