@@ -58,3 +58,8 @@
 </div>
 
 
+<div>
+    <img src="snake.svg" alt="Snake image">
+</div>
+
+
